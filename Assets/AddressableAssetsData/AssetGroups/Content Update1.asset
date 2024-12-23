@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Content Update1
+  m_EditorClassIdentifier: 
+  m_GroupName: Content Update1
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ac9a28ee36e094ad1bc0af21a2f8de68
+  m_SerializeEntries:
+  - m_GUID: 3616fbd2edd5b479687bd1ae3a62a4dc
+    m_Address: Assets/Materials/Green_Opaque.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ce3134779fe924b1bb6f1781d20c4d95, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c3f27ee74a243464babcf948a75ad788, type: 2}
+    - {fileID: 11400000, guid: b2335ab67ec7849eea689687820f44f0, type: 2}
